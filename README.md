@@ -8,3 +8,9 @@ Requires
 - FastAI v1
 - PyTorch v1
 - Pandas
+
+### Forked from the original repo, and modified to generate quotes by authors of choice.
+Modifications made:
+- An npm for scraping GoodReads for quotes by your favourite author/s.
+- Saved to a json file, which is read in by the script in the Jupyter Notebook
+- Rest of the process is pretty similar to the original repo.
